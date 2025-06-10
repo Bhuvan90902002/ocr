@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.json
+*.txt
+!requirements.txt
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# IDE specific files
+.vscode/
+.idea/ 
